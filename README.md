@@ -18,6 +18,7 @@ This guide provides some help how to setup your Azure Kubernetes Cluster (AKS)
 * Setup Reboot Deamon [Link](https://docs.microsoft.com/en-us/azure/aks/node-updates-kured)
 * Setup logging [Link](https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-overview?toc=%2Fen-us%2Fazure%2Faks%2FTOC.json&bc=%2Fen-us%2Fazure%2Fbread%2Ftoc.json)
 * Volume Configuration [Link](https://docs.microsoft.com/en-us/azure/aks/azure-files-dynamic-pv)
+* Custom DNS: add custom dns server for stubdomain [Link](https://www.danielstechblog.io/using-custom-dns-server-for-domain-specific-name-resolution-with-azure-kubernetes-service/) and [k8s doc](https://kubernetes.io/docs/tasks/administer-cluster/dns-custom-nameservers/) 
 
 ## Web Application Firewall
 
