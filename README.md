@@ -26,3 +26,6 @@ This guide provides some help how to setup your Azure Kubernetes Cluster (AKS)
 
 ## Prep CI & CD
 * Setup a container registry
+
+## Useful Change Feeds
+* Azure Kubernetes Updates: https://github.com/Azure/AKS/releases
